@@ -14,7 +14,7 @@ I am a passionate Frontend developer, driven by a curiosity for technology . My 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,typescript,react,redux,vue,vuetify,go,bootstrap,tailwindcss,aws,postman,firebase,git,graphql,nodejs,python,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,sass,typescript,vue,vuetify,go,bootstrap,tailwindcss,aws,postman,firebase,git,graphql,nodejs,python,django)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
